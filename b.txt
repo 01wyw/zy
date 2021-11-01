@@ -1,6 +1,6 @@
 interface IParams {
     public int getBig();
-
+    // 获取中车位
     public int getMedium();
     // 获取小车位
     public int getSmall();
